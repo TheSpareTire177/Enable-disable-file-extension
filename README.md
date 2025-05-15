@@ -2,6 +2,9 @@
 
 This tool adds an option in your context menu to enable or disable files by changing their file extensions. It is designed to be user-friendly and efficient for managing file states in your projects.
 
+#### This tool works by adding registry keys to your registry. After running the executable, you can delete it and all associated files.
+### !!MAKE SURE TO RUN AS ADMIN!!
+
 ## Features
 - **Enable/Disable Files:** Quickly toggle files between active and inactive states by changing their extensions (e.g., `file.txt` to `file.txt.disabled`).
 - **Context Menu Integration:** Right-click on a file to enable or disable it directly from the context menu.
@@ -26,13 +29,8 @@ This tool adds an option in your context menu to enable or disable files by chan
 
 ---
 
-This tool is ideal for developers and teams who need a quick, safe, and user-friendly way to manage file availability in their projects.
-
----
-
 ## How to Compile and Run (Windows)
 
-### Without an IDE
 1. Ensure you have the [.NET SDK](https://dotnet.microsoft.com/download) installed (version 9.0 or later).
 2. Open a terminal (PowerShell or Command Prompt).
 3. Navigate to the project directory:
@@ -50,4 +48,4 @@ This tool is ideal for developers and teams who need a quick, safe, and user-fri
 
 ---
 
-The latest precompiled version is always available in the [releases](https://github.com/your-username/Enable-disable-file-extension/releases).
+The latest precompiled version is always available in the [releases](https://github.com/your-username/Enable-disable-file-extension/releases) section.
