@@ -48,4 +48,4 @@ This tool adds an option in your context menu to enable or disable files by chan
 
 ---
 
-The latest precompiled version is always available in the [releases](https://github.com/your-username/Enable-disable-file-extension/releases) section.
+The latest precompiled version is always available in the [releases](https://github.com/TheSpareTire177/Enable-disable-file-extension/releases) section.
